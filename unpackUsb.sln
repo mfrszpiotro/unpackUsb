@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "unpackUsb", "unpackUsb.vcxproj", "{76450CF6-F561-4668-899C-1D1068790AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76450CF6-F561-4668-899C-1D1068790AFC}.Debug|x64.ActiveCfg = Debug|x64
+		{76450CF6-F561-4668-899C-1D1068790AFC}.Debug|x64.Build.0 = Debug|x64
+		{76450CF6-F561-4668-899C-1D1068790AFC}.Debug|x86.ActiveCfg = Debug|Win32
+		{76450CF6-F561-4668-899C-1D1068790AFC}.Debug|x86.Build.0 = Debug|Win32
+		{76450CF6-F561-4668-899C-1D1068790AFC}.Release|x64.ActiveCfg = Release|x64
+		{76450CF6-F561-4668-899C-1D1068790AFC}.Release|x64.Build.0 = Release|x64
+		{76450CF6-F561-4668-899C-1D1068790AFC}.Release|x86.ActiveCfg = Release|Win32
+		{76450CF6-F561-4668-899C-1D1068790AFC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF7D03A5-2FD2-4909-B75F-D6E68E46D158}
+	EndGlobalSection
+EndGlobal
